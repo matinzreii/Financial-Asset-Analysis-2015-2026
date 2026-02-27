@@ -135,7 +135,7 @@ arabic_reshaper        # Persian text rendering in plots
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/matinzreii/Financial-Asset-Analysis-2015-2026.git)
 cd your-repo-name
 ```
 
@@ -171,3 +171,4 @@ Data Analysis Course — Final Project
 
 
 > ⭐ If you found this project useful or interesting, feel free to star the repository.
+
