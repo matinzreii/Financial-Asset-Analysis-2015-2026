@@ -163,10 +163,11 @@ jupyter notebook Final_Project_Oil_Gold_DXY_BTC.ipynb
 
 ## 👤 Author
 
-**[Your Name]**
+**[Matin Zarei]**
 Data Analysis Course — Final Project
 *2026*
 
 ---
+
 
 > ⭐ If you found this project useful or interesting, feel free to star the repository.
